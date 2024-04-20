@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a passionate programmer and an enthusiastic Web Developer who loves to solve real-life problems. I have an immense interest in software development and am eager to contribute to open source. I love to work with people who are passionate about building solutions. I intend to build my career in the field of software development.
+
+- 🔭 Devloper at Prayojak
+- 🌱 Backend Developer, Frontend Devloper.
+- 🤝 Talk to me about Backend dev, software development and DSA.
+- 📫 How to reach me: irshadalam.nith@gmail.com
+- 😄 Pronouns: Irish
+- 🎨 My hobby : I love playing Guitar.
 <!--
 **irshad-alam-irish/irshad-alam-irish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
