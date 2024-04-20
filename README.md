@@ -10,6 +10,8 @@ I'm a passionate programmer and an enthusiastic Web Developer who loves to solve
 - 📫 How to reach me: irshadalam.nith@gmail.com
 - 😄 Pronouns: Irish
 - 🎨 My hobby : I love playing Guitar.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=irshad-alam-irish)](https://git.io/streak-stats)
 <!--
 **irshad-alam-irish/irshad-alam-irish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![image]()
