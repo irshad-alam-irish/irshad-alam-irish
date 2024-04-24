@@ -13,8 +13,11 @@ I'm a passionate programmer and an enthusiastic Web Developer who loves to solve
 - 📫 How to reach me: irshadalam.nith@gmail.com
 - 😄 Pronouns: Irish
 - 🎨 My hobby : I love playing Guitar.
-  
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/irshad-alam-5399a3204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irshad-alam-5399a3204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/irish_alam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/irish_alam/" height="30" width="40" /></a>
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -31,7 +34,7 @@ I'm a passionate programmer and an enthusiastic Web Developer who loves to solve
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<hr>
+
 
  ### ☄️ Github Streaks
 
