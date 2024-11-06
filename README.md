@@ -7,7 +7,7 @@
 
 I'm a passionate programmer and an enthusiastic Web Developer who loves to solve real-life problems. I have an immense interest in software development and am eager to contribute to open source. I love to work with people who are passionate about building solutions. I intend to build my career in the field of software development.
 
-- 🔭 Devloper at Prayojak
+- 🔭 Full Stack Developer @TUSSP
 - 🌱 Backend Developer, Frontend Devloper.
 - 🤝 Talk to me about Backend dev, software development and DSA.
 - 📫 How to reach me: irshadalam.nith@gmail.com
