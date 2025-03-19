@@ -3,7 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-![Banner](https://github.com/irshad-alam-irish/irshad-alam-irish/blob/main/github_cover1.png)
+<p align="center">
+  <img src="https://github.com/irshad-alam-irish/irshad-alam-irish/blob/main/github_cover1.png" alt="Banner" style="width:100%;">
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&width=435&lines=I'm+a+Full+Stack+Developer;I+Love+Solving+Problems+💻;Backend+%7C+Frontend+%7C+Open+Source)](https://git.io/typing-svg)
 
