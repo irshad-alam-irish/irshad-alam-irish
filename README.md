@@ -1,45 +1,92 @@
-<h1>
-  hey there
+<h1 align="center">
+  Hey there! 👋  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-![image](https://github.com/irshad-alam-irish/irshad-alam-irish/blob/main/CoverImage%20(1).png)
+![Banner](https://github.com/irshad-alam-irish/irshad-alam-irish/blob/main/CoverImage%20(1).png)
 
-I'm a passionate programmer and an enthusiastic Web Developer who loves to solve real-life problems. I have an immense interest in software development and am eager to contribute to open source. I love to work with people who are passionate about building solutions. I intend to build my career in the field of software development.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&width=435&lines=I'm+a+Full+Stack+Developer;I+Love+Solving+Problems+💻;Backend+%7C+Frontend+%7C+Open+Source)](https://git.io/typing-svg)
 
-- 🔭 Full Stack Developer @TUSSP
-- 🌱 Backend Developer, Frontend Devloper.
-- 🤝 Talk to me about Backend dev, software development and DSA.
-- 📫 How to reach me: irshadalam.nith@gmail.com
-- 😄 Pronouns: Irish
-- 🎨 My hobby : I love playing Guitar.
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/irshad-alam-5399a3204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irshad-alam-5399a3204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/irish_alam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/irish_alam/" height="30" width="40" /></a>
+---
+
+## 🚀 About Me  
+I'm a **passionate programmer** and an **enthusiastic Web Developer** who loves to solve real-life problems.  
+I have an immense interest in software development and open-source contribution.  
+
+### 💼 Work Experience
+- 🔹 **System Engineer @TCS (Tata Consultancy Services)**  
+- 🔹 **Full Stack Developer @Career Suits (Previously)**  
+- 🔹 **Proficient in:**  
+  📌 React | Next.js | Python | FastAPI | MERN Stack | Node.js  
+  📌 PostgreSQL | MongoDB | Material-UI | Tailwind CSS | Bootstrap  
+
+### 🌱 What I Do
+- Backend & Frontend Development  
+- Database & API Development  
+- Software Development  
+- DSA & Problem Solving  
+
+## 📫 Reach Me At  
+<p align="center">
+  <a href="mailto:irshadalam.nith@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/irshad-alam-5399a3204" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/irish_alam/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/irshad-alam-irish" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
+## 🛠️ Technologies & Tools  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,python,fastapi,nodejs,express,mongodb,postgresql,materialui,tailwind,bootstrap,git,docker,vercel" alt="Tech Stack" />
 </div>
 
+---
 
 
- ### ☄️ Github Streaks
+### ☄️ GitHub Streaks  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=irshad-alam-irish)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irshad-alam-irish)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irshad-alam-irish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 Total Contributions & Commits  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irshad-alam-irish&show_icons=true&theme=react" />
+</p>
 
+### 🚀 Most Used Languages  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irshad-alam-irish&layout=compact&theme=react" />
+  </a>
+</p>
 
+---
+## 🔥 Contribution Graph  
+[![Irshad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=irshad-alam-irish&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
+## 🎖 Achievements & Badges  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=irshad-alam-irish&theme=darkhub&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+## 🚀 Fun Extras  
+
+### 📊 GitHub Profile Views Counter  
+![](https://komarev.com/ghpvc/?username=irshad-alam-irish&color=blue&style=flat)
+
+### 🎯 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+ 
