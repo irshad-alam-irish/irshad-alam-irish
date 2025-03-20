@@ -56,8 +56,11 @@ I have an immense interest in software development and open-source contribution.
 
 ### ☄️ GitHub Streaks  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irshad-alam-irish)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irshad-alam-irish" alt="GitHub Streak">
+  </a>
+</p>
 ### 📈 Total Contributions & Commits  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irshad-alam-irish&show_icons=true&theme=react" />
@@ -66,9 +69,10 @@ I have an immense interest in software development and open-source contribution.
 ### 🚀 Most Used Languages  
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irshad-alam-irish&layout=compact&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irshad-alam-irish&layout=compact&theme=react&langs_count=10" />
   </a>
 </p>
+
 
 ---
 ## 🔥 Contribution Graph  
